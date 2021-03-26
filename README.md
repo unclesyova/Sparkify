@@ -37,5 +37,5 @@ This code is under APACHE LICENSE 2.0
 
 ### Author & Acknowledgements
 Author: Zeev Peisakhovitch  
-Much of the usefull information was taken from this [article](https://neptune.ai/blog/tabular-data-binary-classification-tips-and-tricks-from-5-kaggle-competitions)
-More detailed analysis is available at the folloing [link](https://zeevush0819.medium.com/sparkify-523e800cdb59)
+Much of the usefull information was taken from this [article](https://neptune.ai/blog/tabular-data-binary-classification-tips-and-tricks-from-5-kaggle-competitions).  
+More detailed analysis is available at the folloing [link](https://zeevush0819.medium.com/sparkify-523e800cdb59).
