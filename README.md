@@ -27,10 +27,9 @@ During the project the following steps were made:
 1. Data was downloaded and analyzed.
 2. Data was preprocessed and reshapen, suitable features were designed.
 3. ML model was built and trained.
-4. The results were tested and assessed with the f1 score metric.
-5. The final result was deployed on IBM cloud with a larger dataset.  
+4. The results were tested and assessed with the f1 score metric. 
   
-The final results are 0.65 for the small dataset and 0.57 for a larger dataset deployed on IBM cloud.  
+The final results are 0.63 for the small dataset.  
 Source code is scalable and suitable to analyze different datasets.
 
 ### License
@@ -39,3 +38,4 @@ This code is under APACHE LICENSE 2.0
 ### Author & Acknowledgements
 Author: Zeev Peisakhovitch  
 Much of the usefull information was taken from this [article](https://neptune.ai/blog/tabular-data-binary-classification-tips-and-tricks-from-5-kaggle-competitions)
+More detailed analysis is available at the folloing [link](https://zeevush0819.medium.com/sparkify-523e800cdb59)
