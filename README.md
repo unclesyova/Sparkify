@@ -11,12 +11,13 @@ users, which would result in higher profits.
 
 ### List of files
 * Sparkify.ipyb - The source code.  
-* small_sparkify-event-data.json - The dataset containing the information about the user activities.  
+* mini_sparkify_event_data.zip - The dataset containing the information about the user activities.  
 
 ### How to use
-- download the dataset and the source code file.  
-- open it in jupyter notebook and run.  
-- some changes may need to be made depending on the environment because the project uses Spark in local mode.  
+- Download the dataset and the source code file. 
+- Unzip the dataset. 
+- Open the source code in jupyter notebook and run.  
+- Some changes may need to be made depending on the environment because the project uses Spark in local mode.  
 
 ### 3rd party libraries
 The project uses pandas and matplotlib for data visualization.  
